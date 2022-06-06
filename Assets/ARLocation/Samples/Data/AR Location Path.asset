@@ -12,7 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c63d15506dd69f48a388fc9c4976162, type: 3}
   m_Name: AR Location Path
   m_EditorClassIdentifier: 
-  Locations: []
+  Locations:
+  - Latitude: 0
+    Longitude: 0
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
   SplineType: 0
   Alpha: 0.5
   SceneViewScale: 1
