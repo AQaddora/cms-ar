@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 58e6244b6f4fa2446b4272a035b5931e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Helvetica Neue LT Arabic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 96029448837131f429637e26f3b051cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
